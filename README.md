@@ -1,1 +1,3 @@
 # ANN-Implementation
+
+### important commands:
